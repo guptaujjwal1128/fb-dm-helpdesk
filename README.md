@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Facebook DM Helpdesk: Streamline Your Social Interactions
+
+Facebook DM Helpdesk is a comprehensive web application designed to simplify the management of Facebook messaging. Whether you're an individual looking to stay in touch with friends or a business aiming to enhance client engagement, this platform provides a unified interface to efficiently monitor and respond to direct messages across your accounts.
+
+## Key Features
+
+- **Multi-Account Management**: Manage multiple Facebook accounts with ease, eliminating the need to log in and out.
+- **Unified Inbox**: Keep all your Facebook messages in one organized place for streamlined communication.
+- **Quick Response System**: Send timely responses with customizable templates, ensuring consistent communication.
+- **Intuitive Interface**: Benefit from a clear and user-friendly dashboard that simplifies your interaction.
+
+Facebook DM Helpdesk is the ideal solution for anyone seeking to improve their social media presence and responsiveness. Experience a seamless approach to managing your Facebook interactions. Try it today and enjoy an organized and efficient messaging experience.
+
